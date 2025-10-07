@@ -1,0 +1,5 @@
+*.o
+*.cmp
+my_grep
+my_cat
+.gitkeep

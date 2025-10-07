@@ -1,0 +1,10 @@
+start test3.txt 
+EDUCATION
+cat dog catdog cat dog
+cat dog 
+cat dog
+test3
+impossible
+
+
+end line test3.txt

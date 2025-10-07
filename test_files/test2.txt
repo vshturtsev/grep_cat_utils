@@ -1,0 +1,4 @@
+start test2.txt
+fff
+TEST2 
+end line test2.txt

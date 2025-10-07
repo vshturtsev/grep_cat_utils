@@ -1,0 +1,6 @@
+start test.txt
+test 1
+tab here			end
+russian a & b & last: а & б & я
+end file test.txt
+
