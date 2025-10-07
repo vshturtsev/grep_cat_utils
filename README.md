@@ -62,6 +62,9 @@ src/
 │   ├── cat_test.sh      # Test script for cat
 │   ├── cat_diff.sh      # Diff comparison script
 │   └── Makefile
+├── common/
+│   ├── common.c         # common functions for both utils 
+│   ├── common.h         # common header
 ├── grep/
 │   ├── grep.c           # grep implementation 
 │   ├── grep.h           # grep header
